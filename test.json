@@ -1,15 +1,15 @@
 {
   "$id": "1",
   "Status": "SCSS001",
-  "FirstName": "СЕРІК",
-  "LastName": "ҚҰЛЕТ",
-  "MiddleName": "ЖҰМАҒАЗЫҰЛЫ",
+  "FirstName": "FirstName",
+  "LastName": "LastName",
+  "MiddleName": "MiddleName",
   "BirthDate": "1979-06-22",
   "Country": "КАЗАХСТАН",
-  "DocumentNumber": "037988956",
+  "DocumentNumber": "037999067",
   "DocumentDateIssue": "2015-02-02",
   "DocumentIssueBy": "МИНИСТЕРСТВО ВНУТРЕННИХ ДЕЛ РК",
-  "Street": "УЛИЦА Омирзак Игисинулы Отарбаев",
-  "House": "31А",
+  "Street": "УЛИЦА Street",
+  "House": "42B",
   "Flat": null
 }
